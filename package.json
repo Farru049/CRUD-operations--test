@@ -15,6 +15,7 @@
   "author": "Mohammad Farhaan Ali",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.21.1"
   },
   "devDependencies": {
