@@ -1,0 +1,23 @@
+{
+  "name": "manager",
+  "version": "1.0.0",
+  "description": "simple manager for managing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "manage"
+  ],
+  "author": "Mohammad Farhaan Ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
